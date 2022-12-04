@@ -4,7 +4,7 @@ Hi, my name is Sasha
 Backend developer
 -----------------
 
-Student (3rd year). Interested in Java & Kotlin
+Student, Java developer, CTF player.
 
 ### Skills
 
