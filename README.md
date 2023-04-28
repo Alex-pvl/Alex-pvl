@@ -2,7 +2,7 @@
 - 20 y.o.
 - Student @ NSTU
 - Java developer @ [e2e4](https://e2e4online.ru)
-- CTF player @ [QarabagTeam](https://ctftime.org/team/186802)
+- CTF player @ [QarabagTeam](https://github.com/Qarabag-Team)
 
 # 🪪 Socials:
 
