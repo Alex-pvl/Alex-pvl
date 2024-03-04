@@ -1,7 +1,7 @@
 # About Me:
 - 21 y.o.
 - Student @ NSTU
-- Java developer @ [e2e4](https://e2e4online.ru)
+- Java developer @ [intabia](https://intabia.ru)
 - CTF player @ [QarabagTeam](https://github.com/Qarabag-Team)
 
 # Socials:
