@@ -6,13 +6,13 @@
 
 # Socials:
 
-- [VK](https://vk.com/s_pavlyuk1)
-- [Telegram](https://t.me/s_pavlyuk1)
-- [CV](https://drive.google.com/file/d/1h6HYYVe6gXcNg9jMUoo_OHxHux1kOsMI/view?usp=sharing)
+<a href="https://www.linkedin.com/in/aleksandr-pavlyuk/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
 # Tech Stack:
 <p>
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=kotlin,java,spring,postgres,redis,docker,kubernetes,githubactions,graphql,gradle,hibernate,firebase,grafana,sentry,rabbitmq" />
   </a>
 </p>
