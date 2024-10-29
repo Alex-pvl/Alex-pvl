@@ -4,12 +4,6 @@
 - Java developer @ [intabia](https://intabia.ru)
 - CTF player @ [QarabagTeam](https://github.com/Qarabag-Team)
 
-# Socials:
-
-<a href="https://www.linkedin.com/in/aleksandr-pavlyuk/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
 # Tech Stack:
 <p>
   <a>
