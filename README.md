@@ -1,7 +1,7 @@
 # About Me:
-- 21 y.o.
+- 22 y.o.
 - Student @ NSTU
-- Java developer @ [intabia](https://intabia.ru)
+- Java developer @ [VK Tech](https://tech.vk.com/)
 - CTF player @ [QarabagTeam](https://github.com/Qarabag-Team)
 
 # Tech Stack:
